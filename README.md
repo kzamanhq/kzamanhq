@@ -1,5 +1,5 @@
 # 🚚 This account has moved
-[![New GitHub Account](./kzamanhq.png)](https://github.com/kzamanhq)
+[![New GitHub Account](./kzamanbd.png)](https://github.com/kzamanhq)
 
 I've migrated to a new GitHub username.
 
